@@ -1,6 +1,6 @@
 # blog
 
-Code for youngdayjob.com. Used ([rauchg/blog](https://github.com/rauchg/blog) as a starting point.
+Code for youngdayjob.com. Used [rauchg/blog](https://github.com/rauchg/blog) as a starting point.
 
 ## How to run
 

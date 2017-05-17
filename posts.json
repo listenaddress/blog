@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "javascript-resources",
+      "date": "January 6, 2017",
+      "title": "JAVASCRIPT RESOURCES"
+    },
+    {
+      "id": "making-this-site",
+      "date": "February 4, 2016",
+      "title": "MAKING THIS SITE"
+    },
+    {
+      "id": "glitch",
+      "date": "July 13, 2015",
+      "title": "GLITCH"
+    },
+    {
+      "id": "kool-ad",
+      "date": "February 22, 2015",
+      "title": "KOOL A.D."
+    },
+    {
+      "id": "places-i-like-to-work",
+      "date": "November 4, 2014",
+      "title": "PLACES I LIKE TO WORK"
+    },
+    {
+      "id": "places-i-remember",
+      "date": "November 4, 2014",
+      "title": "PLACES I REMEMBER"
+    },
+    {
+      "id": "audiomap",
+      "date": "November 4, 2014",
+      "title": "AUDIOMAP"
+    }
+  ]
+}

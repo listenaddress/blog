@@ -1,0 +1,27 @@
+{
+  "name": "rauchg-blog",
+  "description": "rauchg.com (blog)",
+  "engines": {
+    "ace": "beta"
+  },
+  "dependencies": {
+    "comma-number": "^1.1.0",
+    "firebase": "^3.6.4",
+    "isomorphic-fetch": "^2.2.1",
+    "load-script": "^1.0.0",
+    "next": "^2.0.0-beta.16",
+    "nprogress": "^0.2.0",
+    "react-youtube": "^7.3.0",
+    "style-loader": "^0.16.1",
+    "styled-jsx": "^0.5.7"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production node server"
+  },
+  "devDependencies": {
+    "style-loader": "^0.16.1",
+    "styled-jsx": "^0.5.7"
+  }
+}

@@ -18,6 +18,7 @@ export default ({ children }) => (
     <style jsx>{`
       .main {
         padding: 25px 50px;
+        padding-bottom: 125px;
       }
 
       .logo {

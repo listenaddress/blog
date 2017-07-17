@@ -1,6 +1,6 @@
 # blog
 
-Code for youngdayjob.com. Used [rauchg/blog](https://github.com/rauchg/blog) as a starting point.
+Code for youngdayjob.now.sh. Used [rauchg/blog](https://github.com/rauchg/blog) as a starting point.
 
 ## How to run
 
@@ -30,7 +30,7 @@ URL. When I browse to it and verify it looks ok, I set up an alias
 targetting the production URL.
 
 ```bash
-now alias <url> youngdayjob.com
+now alias <url> https://youngdayjob.now.sh
 ```
 
 ## Architecture

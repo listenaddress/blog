@@ -13,7 +13,7 @@ export default () => (
     <Head><title>AUBREY DE GREY</title></Head>
     <Title>AUBREY DE GREY</Title>
     <P>For me, Aubrey’s work to end aging at the <a href="http://www.sens.org">SENS Foundation</a> is among the dankest. He thinks we have a shot at reversing aging the next few decades (so anyone who is alive could return to something like a mid-twenties vibe). This would also mean an end to all age-related diseases, like cancer and Alzheimer's.</P>
-    <P>In 1982 Aubrey categorized aging into seven types of cell damage. If we can find solutions for all seven, we’ll likely have solved aging.</P>
+    <P>In 1982 Aubrey categorized aging into seven types of cell damage. If we can find solutions for all seven, we’ll likely solve aging.</P>
     <Figure desc={<span>
         From his <a href="https://youtu.be/T0lvxTm2iLg?t=12m13s" target="_blank">TED Talk</a>, "Seeking immortality"
       </span>}>
@@ -27,10 +27,9 @@ export default () => (
       <YouTube videoId="Fn-6zM0j1qU" />
     </Figure>
     <HR />
-    <P>Being into this for a few years, the most shocking thing for me has been how many people aren’t on board immediately. I'd guess over half of the 100+ people I’ve talked to said they wouldn’t be v interested in living longer than we do now, even if we were at full health with indefinite resources, only limited by our imaginations, could fly around the universe and other dimensions being omnipotent, omniscient, and such. I’ve heard a couple reasons most often… First is that life is often pretty shit and full of suffering, and it’s hard to imagine that suffering leaving somehow. Second is that we’ve built amazing ways to deal with the idea of death to the point of wanting it for religious reasons or otherwise.</P>
-    <P>On an optimistic note though… when it comes down to it and we actually have the tech to relieve suffering, live indefinitely, and enter hot new intergalactic metaphysical realms of facebook, very few people will turn it down you have to imagine. You see this pattern with lots of tech adoption. Distaste/hate —> doubt —> adoption.</P>
-    <P>One immaculate book that gets into this psychology around death is <a href="https://0ducks.files.wordpress.com/2015/01/alan-harrington-the-immortalist-1977.pdf" target="_blank">The Immortalist</a> by Alan Harrington.</P>
-    <P>UGGH shouts out Alan Harrington.</P>
+    <P>Being into this for a few years, the most shocking thing for me has been how many people aren’t on board immediately. I'd guess over half of the 100+ people I’ve talked to said they wouldn’t be v interested in living longer than we do now, even if we were at full health with indefinite resources, only limited by our imaginations, could fly around the universe and other dimensions being omnipotent, omniscient, and such. I’ve heard a couple reasons most often. First is that life is often pretty shit and full of suffering, and it’s hard to imagine that suffering leaving somehow. Second is that we’ve built amazing ways to deal with the idea of death to the point of wanting it for religious reasons or otherwise.</P>
+    <P>On an optimistic note though: when it comes down to it, and we actually have the tech to relieve suffering, live indefinitely, and enter hot new intergalactic metaphysical realms of facebook, very few people will turn it down you have to imagine. You see this pattern with lots of tech adoption. Distaste/hate —> doubt —> adoption.</P>
+    <P>One immaculate book that gets into this psychology around death is <a href="https://0ducks.files.wordpress.com/2015/01/alan-harrington-the-immortalist-1977.pdf" target="_blank">The Immortalist</a> by Alan Harrington. Really, shouts out Alan Harrington.</P>
     <Quote>"Consider the neurotic circus we put on."</Quote>
     <Quote>"All culture has been a subtle and devious attempt to usurp divine authority, to conquer death."</Quote>
     <Quote>"The time has come for [us] to turn into gods or perish."</Quote>
@@ -40,7 +39,7 @@ export default () => (
     <HR />
     <P>Aubrey isn't the only one that thinks we’re close…</P>
     <UL>
-      <li><a href="https://en.wikipedia.org/wiki/Ray_Kurzweil" target="_blank">Ray Kurzweil</a>, director of engineering at Google and one of the most prolific inventors and technology forecasters, is confident he’ll probably live indefinitely even though he's 69 (2017). He built on <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank">Moore's Law</a> and blessed the people with <a href="https://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns" target="_blank">The Law of Accelerating Returns</a> which shows that similar exponentials aren't just occuring in transistors, but in many technological systems, as well as evolution itself. He’s written some amazing books that have prediction data that’s held up v well over the years. I've read and really dig <a href="https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889" target="_blank">The Singularity Is Near</a> & <a href="https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6N267B3YED2AHA6AH8MX" target="_blank">How to Create a Mind</a>.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Ray_Kurzweil" target="_blank">Ray Kurzweil</a>, director of engineering at Google and one of the most prolific inventors and technology forecasters, is confident he’ll probably live indefinitely even though he's 69 (2017). He built on <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank">Moore's Law</a> and blessed the people with <a href="https://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns" target="_blank">The Law of Accelerating Returns</a> which shows that similar exponentials aren't just occuring in transistors, but in many technological systems, as well as evolution itself. He’s written some amazing books that have predictions which have held up v well over the years. I've read and really dig <a href="https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889" target="_blank">The Singularity Is Near</a> & <a href="https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6N267B3YED2AHA6AH8MX" target="_blank">How to Create a Mind</a>.</li>
       <li>
         Mark Zuckerberg and Priscilla Chan are <a href="https://www.theguardian.com/technology/2016/sep/21/mark-zuckerberg-priscilla-chan-end-disease" target="_blank">investing billions</a> into curing all disease.
         <Figure>
@@ -48,6 +47,7 @@ export default () => (
         </Figure>
       </li>
       <li>Google Ventures funded <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, an R&D lab aimed at “tackling aging”. They also <a href="http://fortune.com/2016/03/07/aging-cures-research-entrepeneurs/">invested 36%</a> of their 2015 funds into life sciences and we can prob expect more big numbers.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig Venter</a>, who helped sequence some of first human genomes, and <a href="https://en.wikipedia.org/wiki/Peter_Diamandis">Peter Diamandis</a> started <a href="http://www.humanlongevity.com/">Human Longevity</a> in San Diego, to "help change medicine to a more data-driven science".</li>
     </UL>
     <P>Here’s Aubrey’s ending aging talk at Google (basically an hour long version of the TED).</P>
     <Figure>

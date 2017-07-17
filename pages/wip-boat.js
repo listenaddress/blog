@@ -8,7 +8,8 @@ import Figure, { Image } from '../components/post/figure'
 
 const pinStyle = {
   marginBottom: '35px',
-  borderRadius: '4px'
+  borderRadius: '4px',
+  maxWidth: '100%'
 };
 
 const credit = {

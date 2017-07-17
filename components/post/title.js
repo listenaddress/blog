@@ -9,6 +9,12 @@ export default ({ children }) => (
         font-size: 48px;
         color: #41e545;
       }
+
+      @media (max-width: 500px) {
+        h1 {
+          font-size: 36px;
+        }
+      }
     `}</style>
   </h1>
 )

@@ -27,8 +27,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/Yth7O6yeZRE?start=679">
       </iframe>
     </Figure>
@@ -39,8 +39,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/Yth7O6yeZRE?start=3970">
       </iframe>
     </Figure>
@@ -51,8 +51,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/Yth7O6yeZRE?start=26865">
       </iframe>
     </Figure>
@@ -63,8 +63,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/Yth7O6yeZRE?start=18766">
       </iframe>
     </Figure>
@@ -75,8 +75,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/PfWgin3JlAU?start=5831">
       </iframe>
     </Figure>
@@ -87,8 +87,8 @@ export default () => (
         style={youtubeStyle}
         id="ytplayer"
         type="text/html"
-        width="649"
-        height="365"
+        width="100%"
+        height="366"
         src="https://www.youtube.com/embed/PfWgin3JlAU?start=20096">
       </iframe>
     </Figure>

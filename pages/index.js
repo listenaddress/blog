@@ -86,9 +86,19 @@ const Post = ({ id, date, title }) => (
         font-weight: 100;
       }
 
+      @media (max-width: 800px) {
+        a {
+          font-size: 30px;
+        }
+      }
+
       @media (max-width: 500px) {
         .post {
-          margin-bottom: 15px;
+          margin-bottom: 35px;
+        }
+
+        a {
+          font-size: 20px;
         }
 
         .date {

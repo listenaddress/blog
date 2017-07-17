@@ -54,7 +54,7 @@ export default () => (
       }
 
       .posts {
-        margin-top: 140px;
+        margin: 140px 0px;
       }
     `}</style>
   </Page>
@@ -69,7 +69,7 @@ const Post = ({ id, date, title }) => (
 
     <style jsx>{`
       .post {
-        margin-bottom: 20px;
+        margin-bottom: 50px;
       }
 
       .date {

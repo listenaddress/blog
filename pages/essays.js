@@ -11,7 +11,7 @@ export default () => (
     <div className="posts">
       {
         posts.map(({ id, date, title }) => (
-          <Post 
+          <Post
             id={id}
             key={id}
             date={date}
@@ -30,7 +30,7 @@ const Post = ({ id, date, title }) => (
 
     <style jsx>{`
       .post {
-        margin-bottom: 10px;
+        margin-bottom: 50px;
       }
 
       .date {

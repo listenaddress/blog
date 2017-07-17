@@ -12,6 +12,7 @@ export default ({ desc, href, children, wide  }) => (
       div {
         text-align: center;
         margin-bottom: 20px;
+        margin: 35px 0;
       }
 
       p {
@@ -36,6 +37,11 @@ export default ({ desc, href, children, wide  }) => (
         background: #F2F2F2;
         z-index: -1;
       }
+
+      span {
+        marginBottom: '35px',
+        marginTop: '35px'
+      }
     `}</style>
   </div>
 )
@@ -46,7 +52,6 @@ const Image = ({ width, src }) => (
     <style jsx>{`
       img {
         max-width: 100%;
-        margin: 15px 0;
       }
     `}</style>
   </div>
@@ -58,7 +63,6 @@ const Video = ({ src }) => (
     <style jsx>{`
       video {
         max-width: 100%;
-        margin: 15px 0;
       }
     `}</style>
   </div>

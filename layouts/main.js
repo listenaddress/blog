@@ -19,6 +19,7 @@ export default ({ children }) => (
       .main {
         padding: 25px 50px;
         padding-bottom: 125px;
+        font-size: 16px;
       }
 
       .logo {

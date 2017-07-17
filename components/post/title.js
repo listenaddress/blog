@@ -6,7 +6,7 @@ export default ({ children }) => (
         font-weight: 500;
         margin-bottom: 50px;
         text-decoration: none;
-        font-size: 35px;
+        font-size: 48px;
         color: #41e545;
       }
     `}</style>

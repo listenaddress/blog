@@ -9,7 +9,7 @@ export default () => (
   <Post>
     <Head><title>LETTERS TO A YOUNG POET</title></Head>
     <Title>LETTERS TO A YOUNG POET</Title>
-    <P>A few notes on some fine art called <a href="https://kbachuntitled.files.wordpress.com/2013/04/rainer-maria-rilke-letters-to-a-young-poet.pdf">Letters to a Young Poet</a> by Rilke.</P>
+    <P>A few notes on <a href="https://kbachuntitled.files.wordpress.com/2013/04/rainer-maria-rilke-letters-to-a-young-poet.pdf">Letters to a Young Poet</a> by Rilke.</P>
     <Quote>"I cannot discuss your verses; for any attempt at criticism would be foreign to me. Nothing touches a work of art so little as words of criticism: they always result in more or less fortunate misunderstandings."</Quote>
     <P>SAME. I cannot discuss your verses either. I think it's why I often labor to call people out for most things, even when it’d be appropriate. I procrastinate on judgment, assuming I prob don’t understand many things.</P>
     <P>What to write about?</P>

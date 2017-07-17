@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default ({ children }) => (
   <div className="main">
     <div className="logo">
-     <Link href="/"><a>youngdayjob.com</a></Link>
+     <Link href="/"><a>youngdayjob.now.sh</a></Link>
      {' '}
      (<a href={`https://github.com/thomasbeta/blog`} target="_blank">src</a>)
     </div>

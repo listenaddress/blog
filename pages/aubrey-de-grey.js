@@ -47,7 +47,13 @@ export default () => (
         </Figure>
       </li>
       <li>Google Ventures funded <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, an R&D lab aimed at “tackling aging”. They also <a href="http://fortune.com/2016/03/07/aging-cures-research-entrepeneurs/">invested 36%</a> of their 2015 funds into life sciences and we can prob expect more big numbers.</li>
-      <li><a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig Venter</a>, who helped sequence some of first human genomes, and <a href="https://en.wikipedia.org/wiki/Peter_Diamandis">Peter Diamandis</a> started <a href="http://www.humanlongevity.com/">Human Longevity</a> in San Diego, to "help change medicine to a more data-driven science".</li>
+      <li><a href="https://en.wikipedia.org/wiki/Craig_Venter" target="_blank">Craig Venter</a>, who helped sequence some of first human genomes, and <a href="https://en.wikipedia.org/wiki/Peter_Diamandis">Peter Diamandis</a> started <a href="http://www.humanlongevity.com/">Human Longevity</a> in San Diego, to "help change medicine to a more data-driven science".</li>
+      <li>
+        <a href="https://verily.com/" target="_blank">Verily</a> is an Alphabet company that's working on preventative healthcare with tech and data science. This intro vid to the company is a nice explainer for why we should dump our reactive healthcare models.
+        <Figure>
+          <YouTube videoId="Lyv0_GIGSbY" />
+        </Figure>
+      </li>
     </UL>
     <P>Here’s Aubrey’s ending aging talk at Google (basically an hour long version of the TED).</P>
     <Figure>

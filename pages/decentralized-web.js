@@ -93,7 +93,7 @@ export default () => (
       </iframe>
     </Figure>
     <HR />
-    <P>Some more dank content for your mental.</P>
+    <P>Here's some related decentralization/blockchain stuff I liked...</P>
     <Figure desc={<span>
         A primer on how Bitcoin works.
       </span>}>
